@@ -43,7 +43,7 @@ header:after, .container:after, footer:after, .widget-posts-list li:after, #subs
 }
 header {
    width: 100%;
-   background: white;
+   background: #E0FFFF;
    box-shadow: 3px 3px 1px rgba(0, 0, 0, .05);
    padding: 15px 0;
    margin-bottom: 30px;
@@ -60,7 +60,7 @@ header {
    width: 30px;
    height: 30px;
    line-height: 30px;
-   border-radius: 50%;
+   border-radius: 45%;
    margin: 5px 0;
    text-align: center;
    text-shadow: 2px 2px 1px rgba(0, 0, 0, .4);
